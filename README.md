@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 👶 I'm a newbie to the programming world 
+- 🌱 I’m currently self learning Python programming language
 <!--
 **balazslaszlo-5/balazslaszlo-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
